@@ -1,0 +1,10 @@
+Para la realización del trabajo final de html he intentado incluir todos los elementos estudiados a lo largo del módulo, desde la configuración básica de cualquier documento html hasta la creación de tablas y enlaces internos.
+
+Cosas externas al curso que he decidido implementar han sido las columnas y el centrar bloques, también la utilización de saltos de línea.
+
+Ha sido sumamente didáctico y he afianzado los términos y etiquetas pero sobretodo me ha aclarado el uso de estas.
+
+Sigue siendo una incógnita para mí el alinear bien las celdas de cada columna y dar espacio entre las mismas, pero bien es cierto que al no encontrar información sobre esto he pensado que quizás solamente es posible incluyendo código 
+CSS.
+
+En cuanto a la petición de el código html codificado he dudado entre la sustitución de entidades y símbolos por los caracteres propios de html o si se pedía la etiqueta <meta charset=“utf-8”, por lo que ante la duda he subido ambos documentos al repositorio, lo siento si es molestia pero no me he conseguido aclarar.
